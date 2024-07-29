@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9a1a0ffa_002D7c9a_002D468e_002D8e69_002Da203fbbcda3a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;Namespace&gt;DXC.Books.Api.Tests&lt;/Namespace&gt;&#xD;
+      &lt;Project Location="C:\Users\Artur\RiderProjects\DXC.Books\DXC.Books.Api.Tests" Presentation="&amp;lt;DXC.Books.Api.Tests&amp;gt;" /&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::DEB2FBEE-A7DD-46E6-8865-2B94605FC6DC::net8.0::DXC.Books.Domain.Tests.StateMachineTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
